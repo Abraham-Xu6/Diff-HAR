@@ -32,7 +32,7 @@
 
 ```
 # 1. 克隆仓库
-git clone https://github.com/Abraham Xu/Diff-HAR.git
+git clone https://github.com/Abraham-Xu6/Diff-HAR.git
 cd Diff-HAR
 
 # 2. 创建并激活虚拟环境 (推荐使用 conda 或 venv)
